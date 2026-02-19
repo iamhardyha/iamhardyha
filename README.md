@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_PROFILE_IMAGE_URL](https://raw.githubusercontent.com/iamhardyha/iamhardyha/main/assets/myprofile.webp)" width="140" style="border-radius: 50%" />
+  <img src="https://raw.githubusercontent.com/iamhardyha/iamhardyha/main/assets/myprofile.webp" width="140" />
 </p>
 
 <h2 align="center">Hi, I'm Changhyeon Ha 👋</h2>
