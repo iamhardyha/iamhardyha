@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/iamhardyha/iamhardyha/main/assets/myprofile.webp" width="140" />
 </p>
 
-<h2 align="center">Hi, I'm Changhyeon Ha 👋</h2>
+<h2 align="center">Hi, I'm iamhardyha 👋</h2>
 
 <p align="center">
   <b>Backend Engineer · Building Scalable Systems for High-Traffic Services</b><br/>
@@ -24,14 +24,22 @@ and keep production systems stable under traffic spikes.
 ---
 
 ### ⚙️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
 
 ---
 
@@ -41,17 +49,6 @@ and keep production systems stable under traffic spikes.
 - Migrate production stacks (**JDK 8 → JDK 21**, **MySQL → Aurora MySQL**)
 - Refactor legacy logic into **schema-driven, extensible architectures**
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhardyha&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhardyha&layout=compact" />
-</p>
-
----
 
 <p align="center">
   <i>“I design backend systems that scale with real-world traffic.”</i>
