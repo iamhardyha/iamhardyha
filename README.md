@@ -40,6 +40,21 @@ and keep production systems stable under traffic spikes.
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=iamhardyha&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamhardyha&theme=dracula" />
+  </a>
+</p>
 
 ---
 
@@ -48,7 +63,6 @@ and keep production systems stable under traffic spikes.
 - Lead **partner integration platforms** (OAuth/Auth, multi-partner APIs)
 - Migrate production stacks (**JDK 8 → JDK 21**, **MySQL → Aurora MySQL**)
 - Refactor legacy logic into **schema-driven, extensible architectures**
-
 
 <p align="center">
   <i>“I design backend systems that scale with real-world traffic.”</i>
